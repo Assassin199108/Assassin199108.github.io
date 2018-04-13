@@ -4,7 +4,7 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hexo</title>
-    <link>http://Assassin199108..github.io/blog/</link>
+    <link>http://Assassin199108.github.io/blog/</link>
     <atom:link href="/blog/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
@@ -13,32 +13,32 @@
     
     <item>
       <title>草稿</title>
-      <link>http://Assassin199108..github.io/blog/2018/04/12/%E8%8D%89%E7%A8%BF/</link>
-      <guid>http://Assassin199108..github.io/blog/2018/04/12/%E8%8D%89%E7%A8%BF/</guid>
+      <link>http://Assassin199108.github.io/blog/2018/04/12/%E8%8D%89%E7%A8%BF/</link>
+      <guid>http://Assassin199108.github.io/blog/2018/04/12/%E8%8D%89%E7%A8%BF/</guid>
       <pubDate>Thu, 12 Apr 2018 13:55:09 GMT</pubDate>
       <description>
       
       </description>
       
-      <comments>http://Assassin199108..github.io/blog/2018/04/12/%E8%8D%89%E7%A8%BF/#disqus_thread</comments>
+      <comments>http://Assassin199108.github.io/blog/2018/04/12/%E8%8D%89%E7%A8%BF/#disqus_thread</comments>
     </item>
     
     <item>
       <title>article_name</title>
-      <link>http://Assassin199108..github.io/blog/2018/04/12/article-name/</link>
-      <guid>http://Assassin199108..github.io/blog/2018/04/12/article-name/</guid>
+      <link>http://Assassin199108.github.io/blog/2018/04/12/article-name/</link>
+      <guid>http://Assassin199108.github.io/blog/2018/04/12/article-name/</guid>
       <pubDate>Thu, 12 Apr 2018 13:52:19 GMT</pubDate>
       <description>
       
       </description>
       
-      <comments>http://Assassin199108..github.io/blog/2018/04/12/article-name/#disqus_thread</comments>
+      <comments>http://Assassin199108.github.io/blog/2018/04/12/article-name/#disqus_thread</comments>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://Assassin199108..github.io/blog/2017/10/28/hello-world/</link>
-      <guid>http://Assassin199108..github.io/blog/2017/10/28/hello-world/</guid>
+      <link>http://Assassin199108.github.io/blog/2017/10/28/hello-world/</link>
+      <guid>http://Assassin199108.github.io/blog/2017/10/28/hello-world/</guid>
       <pubDate>Sat, 28 Oct 2017 00:39:58 GMT</pubDate>
       <description>
       
@@ -52,7 +52,7 @@
       
       </description>
       
-      <comments>http://Assassin199108..github.io/blog/2017/10/28/hello-world/#disqus_thread</comments>
+      <comments>http://Assassin199108.github.io/blog/2017/10/28/hello-world/#disqus_thread</comments>
     </item>
     
   </channel>
