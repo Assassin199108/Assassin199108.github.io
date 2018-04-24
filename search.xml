@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[第一次发表]]></title>
+    <url>%2F2018%2F04%2F14%2F%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%91%E8%A1%A8%2F</url>
+    <content type="text"><![CDATA[hi,everybody]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[草稿]]></title>
     <url>%2F2018%2F04%2F12%2F%E8%8D%89%E7%A8%BF%2F</url>
     <content type="text"></content>
